@@ -153,3 +153,8 @@ To deploy the model in a production environment:
 3. Scale features using the loaded scaler
 4. Generate predictions using the loaded model
 5. Integrate predictions into business applications.
+
+## Conclusion
+
+While the models show limited predictive power for purchase amounts, the analysis provides valuable insights into customer behavior patterns. The project demonstrates the complete machine learning workflow from data acquisition to model deployment. Although numerical prediction accuracy is low, the feature importance analysis offers actionable business intelligence for marketing and customer engagement strategies.
+ The current model serves as a foundation for understanding customer behavior and can be enhanced with richer datasets and advanced analytical approaches.
